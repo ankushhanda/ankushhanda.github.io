@@ -2,7 +2,7 @@
 title: "Case Study: Lead Scoring"
 date: 2020-03-01
 tags: [Machine Learning, Data Science]
-excerpt: "Machine Learning, Data Science"
+excerpt: "Data Science"
 header:
  image: "/images/unsplash-image-3.jpg"
 ---
