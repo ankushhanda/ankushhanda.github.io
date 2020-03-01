@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Ankush Handa"
-  avatar           : "/images/bio-photo.jpg"
+  avatar           : #"/images/bio-photo.jpg"
   bio              : "Data Engineer "
   location         : "Bengaluru,India"
   email            :
@@ -131,9 +131,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/ankush-handa/"
+
 
 # Site Footer
 footer:
