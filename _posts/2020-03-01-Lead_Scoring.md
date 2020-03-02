@@ -20,4 +20,4 @@ To make this process more efficient, the company wishes to identify the most pot
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/lead_scoring/lead_scr_1.jpg" alt="Lead Scoring">
 
-You can check the code at [link](https://github.com/ankushhanda/data-science/blob/master/Lead_Scoring/Lead_scoring_study.ipynb)
+You can check the code and dataset at [link](https://github.com/ankushhanda/data-science/blob/master/Lead_Scoring)
