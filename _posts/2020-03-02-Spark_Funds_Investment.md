@@ -1,6 +1,7 @@
 ---
 title: "Case Study: Spark Funds Investment"
 date: 2020-03-01
+excerpt: Machine Learning
 categories:
   - Machine Learning
 tags:

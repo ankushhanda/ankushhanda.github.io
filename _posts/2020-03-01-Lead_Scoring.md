@@ -1,6 +1,7 @@
 ---
 title: "Case Study: Lead Scoring"
 date: 2020-03-01
+excerpt: Machine Learning
 categories:
   - Machine Learning
 tags:
