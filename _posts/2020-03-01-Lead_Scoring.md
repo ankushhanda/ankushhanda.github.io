@@ -1,6 +1,11 @@
 ---
 title: "Case Study: Lead Scoring"
 date: 2020-03-01
+excerpt: 
+  - Machine Learning
+  - Data Science
+categories:
+  - Machine Learning
 tags:
   - Machine Learning
   - Data Science
