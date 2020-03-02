@@ -19,7 +19,7 @@ CredX is a leading credit card provider that gets thousands of credit card appli
 
 To help CredX identify the right customers using predictive models. Using past data of the bank’s applicants, we need to determine the factors affecting credit risk, create strategies to mitigate the acquisition risk and assess the financial benefit of our project. 
 
-##Understanding the data
+## Understanding the data
 
 There are two data sets in this project: demographic and credit bureau data.  
 - Demographic/application data: This is obtained from the information provided by the applicants at the time of credit card application. It contains customer-level information on age, gender, income, marital status, etc.
